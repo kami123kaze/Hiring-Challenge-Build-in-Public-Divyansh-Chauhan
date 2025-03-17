@@ -30,5 +30,5 @@ Authentication: Firebase Authentication
 ![signup](./balance_game_signup.png)
 ![login](./balance_game_login.png)
 ![Student DAsboard](./Balance_game_01.png)
-![Game Screenshot](./Balance_game_02.png,)
+![Game Screenshot](./Balance_game_02.png)
 
