@@ -1,0 +1,5 @@
+## Challanges today  :- Since I have little experience with FastAPI and this backend stack, I faced a few challenges along the way. Understanding how to properly structure and store user roles in Firestore took some time, as I had to figure out the best way to organize the data. Debugging errors when creating users in Firebase was another hurdle, especially when handling exceptions and making sure the responses were clear. Additionally, I had to think ahead about how login and authentication should work, ensuring that future endpoints would be secure and scalable. Despite these challenges, I was able to get the core functionality working.
+
+
+
+## Takeaways:- Since I’m still new to FastAPI and this backend stack, today was a big learning experience. I figured out how to store user roles in Firestore and got a better understanding of how authentication works with Firebase. Debugging errors was frustrating at times, but it helped me think through problems more clearly. I also started planning how authentication should work in the long run, making sure it’s secure. Overall, it took some trial and error, but I feel more confident 

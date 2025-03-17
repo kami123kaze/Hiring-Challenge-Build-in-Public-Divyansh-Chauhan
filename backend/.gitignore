@@ -1,0 +1,25 @@
+# Ignore environment files
+.env
+serviceAccountKey.json
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+
+venv/
+env/
+
+
+.vscode/
+.idea/
+*.swp
+
+
+logs/
+*.log
+
+
+*.sqlite3
+*.db

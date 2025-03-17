@@ -1,0 +1,12 @@
+## GOALS
+Finalize the frontend and integrate API calls
+Debug Firestore-related issues
+Implement and refine game mechanics
+
+
+Completed  (Day 6-7 Progress)
+Completed frontend development and ensured it works with the backend
+Faced Firestore and API connection bugs, but resolved them
+Spent significant time on game logic and CSS, refining animations and interactions
+The gameboard component alone has over 400 lines of code
+The code works but is not optimized, will need refactoring later

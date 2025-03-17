@@ -1,0 +1,14 @@
+## GOALS
+Create API endpoints for handling game data
+Ensure Firebase Firestore rules allow secure access
+Debug authentication and Firestore-related issues
+
+
+23:00 – Completed  (Day 4-5 Progress)
+Built and tested multiple API endpoints for user authentication and game data
+Faced Firestore security rule issues, which caused some errors in fetching and storing data
+Debugged database collection structure to ensure proper role-based access
+Made sure the backend correctly validates and returns user data when logging in
+
+
+
